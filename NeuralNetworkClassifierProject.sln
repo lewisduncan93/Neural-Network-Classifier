@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralNetworkClassifierProject", "NeuralNetworkClassifierProject\NeuralNetworkClassifierProject.pyproj", "{C3D4BFB5-F9C3-4085-A0D1-1D05FFC23856}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PrepareData", "PrepareData\PrepareData.pyproj", "{22216E45-25F0-464B-A53D-F83534AE4B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D4BFB5-F9C3-4085-A0D1-1D05FFC23856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D4BFB5-F9C3-4085-A0D1-1D05FFC23856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22216E45-25F0-464B-A53D-F83534AE4B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22216E45-25F0-464B-A53D-F83534AE4B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9981A630-D2BB-4950-92C9-9B23FF61D3F2}
+	EndGlobalSection
+EndGlobal
